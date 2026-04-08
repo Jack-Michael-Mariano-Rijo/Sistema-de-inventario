@@ -84,8 +84,6 @@ Gestiona la conexión con la base de datos y realiza las operaciones CRUD.
 
 ---
 <img width="485" height="456" alt="Captura de pantalla 2026-04-08 110159" src="https://github.com/user-attachments/assets/15843d04-deba-4257-b41a-c5be182e8477" />
-<img width="485" height="456" alt="Captura de pantalla 2026-04-08 110159" src="https://github.com/user-attachments/assets/15843d04-deba-4257-b41a-c5be182e8477" />
-<img width="1156" height="785" alt="Captura de pantalla 2026-04-08 110213" src="https://github.com/user-attachments/assets/6c32c8fa-99ff-45fd-9514-9ee89241d863" />
 <img width="1156" height="785" alt="Captura de pantalla 2026-04-08 110213" src="https://github.com/user-attachments/assets/6c32c8fa-99ff-45fd-9514-9ee89241d863" />
 <img width="1153" height="789" alt="Captura de pantalla 2026-04-08 110220" src="https://github.com/user-attachments/assets/c2d6f5d9-1aee-4f29-832c-d5c323361dca" />
 <img width="1153" height="789" alt="Captura de pantalla 2026-04-08 110220" src="https://github.com/user-attachments/assets/c2d6f5d9-1aee-4f29-832c-d5c323361dca" />
