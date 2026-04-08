@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Escritorio\\Gamalir(C#)\\CapaPresentacion2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CA4A6B-BB27-4A86-AAB9-1355E063906E}|CapaPresentacion2.0.csproj|c:\\users\\user\\onedrive\\escritorio\\gamalir(c#)\\capapresentacion2.0\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CA4A6B-BB27-4A86-AAB9-1355E063906E}|CapaPresentacion2.0.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CA4A6B-BB27-4A86-AAB9-1355E063906E}|CapaPresentacion2.0.csproj|C:\\Users\\USER\\OneDrive\\Escritorio\\Gamalir(C#)\\CapaPresentacion2.0\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6CA4A6B-BB27-4A86-AAB9-1355E063906E}|CapaPresentacion2.0.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\Gamalir(C#)\\CapaPresentacion2.0\\Principal.cs",
+              "RelativeDocumentMoniker": "Principal.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\Gamalir(C#)\\CapaPresentacion2.0\\Principal.cs",
+              "RelativeToolTip": "Principal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T14:51:39.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Escritorio\\Gamalir(C#)\\CapaPresentacion2.0\\Principal.cs",
+              "RelativeDocumentMoniker": "Principal.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Escritorio\\Gamalir(C#)\\CapaPresentacion2.0\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:26:24.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
